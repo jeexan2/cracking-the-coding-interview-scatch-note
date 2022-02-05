@@ -3,3 +3,5 @@ This repository will be my notes and scratch book while I will be going through 
 1. Cracking the Coding Interview (6th Edition)
 2. https://github.com/jwasham/coding-interview-university (Jawsham's repo)
 3. Shopee Interview Questions (https://nodeflair.com/blog/shopee-software-engineer-interview-questions-and-processes)
+
+Initially these resources will be working as my learning path.
